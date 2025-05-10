@@ -100,6 +100,3 @@ Frontend
 1.	Clone the repository and navigate to the frontend project.
 2.	Run the app locally or on Expo Go using the setup instructions above.
 
-![alt text](image.png)
-![alt text](image-1.png)
-
